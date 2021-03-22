@@ -12,6 +12,12 @@ Manga reader that runs in the browser, inspired by [Tachiyomi](https://github.co
 
 ### Usage
 
+* Optionally make a virtual environment
+`$ python3 -m venv venv`
+
+* Activate it with
+`$ source venv/bin/activate`
+
 * Install dependencies
 `$ pip install -r requirements.txt`
 
